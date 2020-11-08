@@ -3,7 +3,7 @@
     {
       "name": "T1",
       "setup": "",
-      "run": "python main.py",
+      "run": "main.py",
       "input": "",
       "output": "Hello World!",
       "comparison": "exact",
